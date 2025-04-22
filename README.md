@@ -1,1 +1,2 @@
 ## FastAPI Admin Backend with PostgreSQL Integration
+Developed a scalable and secure admin backend for an AI SaaS platform using FastAPI, PostgreSQL, and JWT authentication. Designed modular architecture with user registration/login, protected routes, and clean API documentation. Implemented SQLAlchemy ORM and Alembic for robust data models and versioned migrations. The solution is ready for containerization and easy deployment via Docker.
